@@ -3,8 +3,8 @@
        PROGRAM-ID.                     PGFJF005P.                       
       *----------------------------------------------------------------* 
       * PROGRAMA.....: PGFJF005P                                       *
-      * ANALISTA.....: JOYCE SCHAIDT                                   *
-      * DATA.........: 23/04/2019                                      *
+      * ANALISTA.....: FABIO FIGUEIREDO                                *
+      * DATA.........: 22/03/2020                                    *
       * OBJETIVO.....: REALIZAR RELATORIO DE CLIENTES                  *
       * ARQUIVOS.....: ARQ-CLIENTE - ARQUIVO DE CLIENTES               *
       *                ARQ-SORT    - ARQUIVO DE SORT                   *
@@ -171,7 +171,7 @@
        0000-EXIT.
            EXIT.
       *----------------------------------------------------------------*
-      * ROTINA DE INICIALIZA«√O                                        *
+      * ROTINA DE INICIALIZA√á√ÉO                                        *
       *----------------------------------------------------------------*
        1000-INICIALIZA                 SECTION.
            
@@ -468,7 +468,7 @@
        2210-EXIT.
            EXIT.
       *----------------------------------------------------------------*
-      * ROTINA DE FINALIZA«√O                                          *
+      * ROTINA DE FINALIZA√á√ÉO                                          *
       *----------------------------------------------------------------*
        3000-FINALIZA                   SECTION.
 
