@@ -1,0 +1,7 @@
+      *COPY DE COMUNICACAO PROGRAMA LNKG003
+       01  LNKG003L.
+           05  CPF-CNPJ-LNKG003       PIC  9(015).
+           05  COD-FUNCAO-LNKG003     PIC  X(001).
+           05  COD-RETORNO-LNKG003    PIC  9(001).
+           05  MSG-RETORNO-LNKG003    PIC  X(050).
+      

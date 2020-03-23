@@ -1,0 +1,11 @@
+      *COPY DE COMUNICACAO PROGRAMA LNKG005P
+       01  LNKG005L.
+           05  TIPO-ORD-LNKG005      PIC  X(001)         VALUE SPACES.
+           05  TIPO-CLA-LNKG005      PIC  X(001)         VALUE SPACES.
+           05  COD-CLI-LNKG005       PIC  9(007)         VALUE ZEROS.
+           05  RAZ-SOC-LNKG005       PIC  X(040)         VALUE SPACES.
+           05  COD-VEND-LNKG005      PIC  9(003)         VALUE ZEROS.
+           05  COD-RETORNO-LNKG005   PIC  9(001)         VALUE ZEROS.
+           05  MSG-RETORNO-LNKG005   PIC  X(050)         VALUE SPACES.
+
+

@@ -1,0 +1,8 @@
+      *COPY DE COMUNICACAO PROGRAMA HBSIS007P
+       01  LNKG007L.
+           05  COD-RETORNO-LNKG007   PIC  9(001)         VALUE ZEROS.
+           05  MSG-RETORNO-LNKG007   PIC  X(050)         VALUE SPACES.
+
+            
+
+
