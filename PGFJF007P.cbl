@@ -4,8 +4,8 @@
       *----------------------------------------------------------------* 
       * PROGRAMA.....: PGFJF007P                                       *
       * ANALISTA.....: FABIO FIGUEIREDO                                *
-      * DATA.........: 22/03/2019                                      *
-      * OBJETIVO.....: REALIZAR DISTRIBUIÇÃO DE CLIENTES X VENDEDORES  *
+      * DATA.........: 22/03/2020                                    *
+      * OBJETIVO.....: REALIZAR DISTRIBUIÃ‡ÃƒO DE CLIENTES X VENDEDORES  *
       * ARQUIVOS.....:                                                 *
       *----------------------------------------------------------------*
        ENVIRONMENT                     DIVISION.
@@ -82,7 +82,7 @@
        01  WS-C                        PIC S9(003)V9(008)  VALUE ZEROS.
       
       *----------------------------------------------------------------*
-      * AREAS DE COMUNICAÇÃO COM OUTROS PROGRAMAS                      *
+      * AREAS DE COMUNICAÃ‡ÃƒO COM OUTROS PROGRAMAS                      *
       *----------------------------------------------------------------*
        01  WS-PGFJF008                 PIC  X(009)         VALUE
            'PGFJF008P'.
@@ -106,7 +106,7 @@
        0000-EXIT.
            EXIT.
       *----------------------------------------------------------------*
-      * ROTINA DE INICIALIZAÇÃO                                        *
+      * ROTINA DE INICIALIZAÃ‡ÃƒO                                        *
       *----------------------------------------------------------------*
        1000-INICIALIZA                 SECTION.
        
@@ -373,7 +373,7 @@
        2800-EXIT.
            EXIT.
       *----------------------------------------------------------------*
-      * ROTINA DE FINALIZAÇÃO                                          *
+      * ROTINA DE FINALIZAÃ‡ÃƒO                                          *
       *----------------------------------------------------------------*
        3000-FINALIZA                   SECTION.
 
